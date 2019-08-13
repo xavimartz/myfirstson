@@ -1,0 +1,84 @@
+/* Seleccionar la etiqueta */
+img{
+    width: 200px;
+    height: auto;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#intro {
+    width: 100vw;
+    height: 25vh;
+    background-color: peru;
+    position: relative;
+}
+
+#about {
+    width: 100vw;
+    height: 25vh;
+    background-color:papayawhip;
+    position: relative;
+}
+
+#fun {
+    width: 100vw;
+    height: 25vh;
+    background-color:peachpufleft: 72%;f;
+    position: relative;
+}
+
+#contacto {
+    width: 100vw;
+    height: 25vh;
+    background-color: peru;
+    position: relative;
+}
+
+h1{
+    color: white;
+    position: absolute;
+    left: 15%;
+    top: 20%;
+    display: inline;
+}
+
+#about h2{
+    left: 40%;
+    top: 50%;
+    position: relative;
+    display: inline;
+}
+
+#about p{
+    left: 0%;
+    top: 70%;
+    position: relative;
+}
+
+#fun p{
+    top: 82%;
+    left: 73%;
+    position: absolute;
+    
+}
+
+#contacto h2{
+    left: 44%;
+    position: relative;
+    display: inline;
+}
+
+#contacto p{
+    top: 60%;
+    left: 35%;
+    position: relative;
+    display: inline;
+}
